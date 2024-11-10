@@ -63,10 +63,10 @@ function _0x8e09() {
     }
   }
 }(_0x8e09, 105820), global[_0x1bcf00(146)] = _0x1bcf00(131), global[_0x1bcf00(137)] = _0x1bcf00(150), global[_0x1bcf00(127)] = "2348133729715", global.ownername = _0x1bcf00(138), global[_0x1bcf00(149)] = [_0x1bcf00(129)], global.ownerweb = "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", global[_0x1bcf00(153)] = _0x1bcf00(147), global[_0x1bcf00(152)] = _0x1bcf00(147), global.saluran = _0x1bcf00(147), global.themeemoji = "🚹", global.wm = "ᴘᴀᴛʀᴏɴ-ᴍᴅ", global[_0x1bcf00(145)] = _0x1bcf00(136), global[_0x1bcf00(132)] = _0x1bcf00(128), global[_0x1bcf00(141)] = _0x1bcf00(134))
-global.creator = "2348133729715@s.whatsapp.net"
-global.bankname = "MONIEPOINT"
-global.banknumber = "5518447058"
-global.bankowner = "FADARE"
+global.creator = "22502331988@s.whatsapp.net"
+global.bankname = "༒⊟༺𝙻𝙾𝚄𝙺𝚂𝙾𝙽 𝚄𝚉𝚄𝙼𝙰𝙺𝙸༻⊟༒"
+global.banknumber = "22502331988"
+global.bankowner = "༒⊟༺𝙻𝙾𝚄𝙺𝚂𝙾𝙽 𝚄𝚉𝚄𝙼𝙰𝙺𝙸༻⊟༒"
 //======================== CPANEL COMMAND ===========================\\
 global.domain = '-' // Fill in your domain, don't put a / at the end of the link
 global.apikey = '-' // Fill Apikey
